@@ -1,9 +1,9 @@
-﻿#EXTM3U8
-#EXTINF:-1 tvg-logo="https://ucoss.96189.com/upload/201709/5978a0ede7bbe2c618237cf3cb25d487.png" group-title="扬州电视台",1新闻频道
+#EXTM3U8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mykeyin/iptv/main/tv-icon/yztv1.png" group-title="扬州电视台",1新闻频道
 https://cm-wshls.homecdn.com/live/8bb.m3u8?wsSession=bc06c41607669548d54471d6-169521556332728&wsIPSercert=b74b6bd6ca7909a0254df2add43facb5
-#EXTINF:-1 tvg-logo="https://ucoss.96189.com/upload/201709/c1a525b2f8e55943da6d48eb9d1ba7cd.png" group-title="扬州电视台",2城市频道
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mykeyin/iptv/main/tv-icon/yztv2.png" group-title="扬州电视台",2城市频道
 https://cm-wshls.homecdn.com/live/8bf.m3u8?wsSession=7551361e84df78d535b19b28-169521624506100&wsIPSercert=b74b6bd6ca7909a0254df2add43facb5
-#EXTINF:-1 tvg-logo="https://ucoss.96189.com/upload/201709/adf7eafd1cdbe92eee36fa7a713d75bd.png" group-title="扬州电视台",3生活频道
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mykeyin/iptv/main/tv-icon/yztv3.png" group-title="扬州电视台",3生活频道
 https://cm-wshls.homecdn.com/live/8bd.m3u8?wsSession=b8a554b76bbc6401bda2d728-169521616039527&wsIPSercert=b74b6bd6ca7909a0254df2add43facb5
-#EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/5d39a69577b731bbe17776177dea2f24.jpg" group-title="扬州电视台",5邗江频道
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mykeyin/iptv/main/tv-icon/yztv5.png" group-title="扬州电视台",5邗江频道
 https://cm-wshls.homecdn.com/live/8c3.m3u8?wsSession=b8a554b76bbc6401bda2d728-169521642096670&wsIPSercert=b74b6bd6ca7909a0254df2add43facb5
